@@ -1,0 +1,121 @@
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell">
+<h3><strong>Australia</strong></h3>
+<ul>
+<li><strong>Brisbane, Queensland</strong></li>
+<li><strong>Melbourne, Victoria</strong></li>
+<li><strong>Perth, Western Australia</strong></li>
+<li><strong><a href="https://www.nbproperty.com.au/" target="_blank" rel="noopener noreferrer">Sydney, New South Wales</a></strong></li>
+</ul>
+<h3><strong>Europe</strong></h3>
+<ul>
+<li><strong>Amsterdam, Netherlands</strong></li>
+<li><a href="https://www.thelevygroup.london" target="_blank" rel="noopener noreferrer"><strong>London, United Kingdom</strong></a></li>
+<li><a href="https://www.sollygubbayconsultants.com" target="_blank" rel="noopener noreferrer"><strong>Paris, France</strong></a></li>
+<li><strong>Rotterdam, Netherlands</strong></li>
+<li><strong>The Hague, Netherlands</strong></li>
+<li><strong>Utrecht, Netherlands</strong></li>
+</ul>
+<h3><strong>North America</strong></h3>
+<ul>
+<li><a href="https://www.vogeladvisors.com/" target="_blank" rel="noopener noreferrer"><strong>Ann Arbor, Michigan</strong></a></li>
+<li><strong><a href="https://www.cherryassociates.com/" target="_blank" rel="noopener noreferrer">Ashville, North Carolina</a></strong></li>
+<li><a href="https://www.dtspade.com/" target="_blank" rel="noopener noreferrer"><strong>Atlanta, Georgia</strong></a></li>
+<li><a href="https://www.maclw.com/" target="_blank" rel="noopener noreferrer"><strong>Austin, Texas</strong></a></li>
+<li><a href="https://www.mariamclellan.com/" target="_blank" rel="noopener noreferrer"><strong>Baton Rouge, Louisiana</strong></a></li>
+<li><a href="https://www.larsencommercial.com/" target="_blank" rel="noopener noreferrer"><strong>Bethesda, Maryland</strong></a></li>
+<li><a href="https://jasperrealtyadvisors.com/" target="_blank" rel="noopener noreferrer"><strong>Boca Raton, Florida</strong></a></li>
+<li><strong>Boise, Idaho</strong></li>
+<li><a href="https://www.beaconsra.com/" target="_blank" rel="noopener noreferrer"><strong>Boston, Massachusetts</strong></a></li>
+<li><strong><a href="https://tenantwisdom/" target="_blank" rel="noopener noreferrer">Boulder, Colorado</a> </strong></li>
+<li><a href="https://www.calgaryofficespace.ca" target="_blank" rel="noopener noreferrer"><strong>Calgary, Alberta, Canada</strong></a></li>
+<li><a href="https://www.navigantrealestate.com" target="_blank" rel="noopener noreferrer"><strong>Chapel Hill, North Carolina</strong></a></li>
+<li><strong><a href="https://cherryassociates.com/" target="_blank" rel="noopener noreferrer">Charlotte, North Carolina</a></strong></li>
+<li><a href="https://www.carmenrealestate.com/" target="_blank" rel="noopener noreferrer"><strong>Chicago, Illinois</strong></a></li>
+<li><strong><a href="https://www.schenkcompany.com/" target="_blank" rel="noopener noreferrer">Cincinnati, Ohio</a></strong></li>
+<li><strong>Cleveland, Ohio</strong></li>
+<li><a href="https://www.maclw.com/" target="_blank" rel="noopener noreferrer"><strong>Colorado Springs, Colorado</strong></a></li>
+<li><a href="https://www.schenkcompany.com/" target="_blank" rel="noopener noreferrer"><strong>Columbus, Ohio</strong></a></li>
+<li><a href="https://crausa.com/" target="_blank" rel="noopener noreferrer"><strong>Dallas, Texas</strong></a></li>
+<li><a href="https://www.maclw.com/" target="_blank" rel="noopener noreferrer"><strong>Denver, Colorado</strong></a></li>
+<li><a href="http://www.proxymity.com" target="_blank" rel="noopener noreferrer"><strong>Des Moines, Iowa</strong></a></li>
+</ul>
+</div>
+<div class="divTableCell">
+<h3><strong>North America</strong></h3>
+<ul>
+<li><a href="https://www.vogeladvisors.com/" target="_blank" rel="noopener noreferrer"><strong>Detroit, Michigan</strong></a></li>
+<li><a href="https://www.navigantrealestate.com" target="_blank" rel="noopener noreferrer"><strong>Durham, North Carolina</strong></a></li>
+<li><a href="https://www.heidihoch.com/" target="_blank" rel="noopener noreferrer"><strong>East Bay-Oakland, California</strong></a></li>
+<li><a href="https://ambar-realty.com/" target="_blank" rel="noopener noreferrer"><strong>Fairfield County, Connecticut</strong></a></li>
+<li><a href="https://tenantwisdom.com/" target="_blank" rel="noopener noreferrer"><strong>Fort Collins-Loveland, Colorado</strong></a></li>
+<li><a href="https://jasperrealtyadvisors.com/" target="_blank" rel="noopener noreferrer"><strong>Fort Lauderdale, Florida</strong></a></li>
+<li><strong><a href="https://crausa.com/" target="_blank" rel="noopener noreferrer">Fort Worth, Texas</a></strong></li>
+<li><a href="https://www.michigancommercialspaceadvisors.com/" target="_blank" rel="noopener noreferrer"><strong>Grand Rapids, Michigan</strong></a></li>
+<li><strong><a href="https://www.cherryassociates.com/" target="_blank" rel="noopener noreferrer">Greenville-Spartanburg, South Carolina</a></strong></li>
+<li><strong><a href="https://omnirealtygroup.com/" target="_blank" rel="noopener noreferrer">Harrisburg-Carlisle, Pennsylvania</a></strong></li>
+<li><strong>Honolulu, Hawaii </strong></li>
+<li><a href="https://www.oxfordcres.com/" target="_blank" rel="noopener noreferrer"><strong>Houston, Texas</strong></a></li>
+<li><a href="https://www.carmenrealestate.com/" target="_blank" rel="noopener noreferrer"><strong>Indianapolis, Indiana</strong></a></li>
+<li><strong><a href="https://madisonstreetpartners.net/" target="_blank" rel="noopener noreferrer">Irvine, California</a> </strong></li>
+<li><strong>Jackson, Mississippi</strong></li>
+<li><a href="https://www.fisherassociatesllc.com/" target="_blank" rel="noopener noreferrer"><strong>Kansas City, Kansas</strong></a></li>
+<li><a href="https://www.fisherassociatesllc.com/" target="_blank" rel="noopener noreferrer"><strong>Kansas City, Missouri</strong></a></li>
+<li><strong><a href="https://www.knoxofficerealty.com/" target="_blank" rel="noopener noreferrer">Knoxville, Tennessee</a></strong></li>
+<li><strong><a href="https://www.mariamclellan.com/" target="_blank" rel="noopener noreferrer">Lake Charles, Louisiana</a></strong></li>
+<li><strong>Las Vegas, Nevada</strong></li>
+<li><strong>Long Island, New York</strong></li>
+<li><a href="https://madisonstreetpartners.net/" target="_blank" rel="noopener noreferrer"><strong>Los Angeles, California</strong></a></li>
+<li><strong>Louisville, Kentucky</strong></li>
+<li><a href="https://jasperrealtyadvisors.com/" target="_blank" rel="noopener noreferrer"><strong>Miami, Florida</strong></a></li>
+<li><a href="https://www.quinlevan.com/" target="_blank" rel="noopener noreferrer"><strong>Milwaukee, Wisconsin</strong></a></li>
+<li><strong>Minneapolis, Minnesota</strong></li>
+<li><a href="https://www.cherryandassoc.com/" target="_blank" rel="noopener noreferrer"><strong>Nashville, Tennessee</strong></a></li>
+<li><a href="https://madisonstreetpartners.net/" target="_blank" rel="noopener noreferrer"><strong>Newport Beach, California</strong></a></li>
+<li><a href="https://dicksteinrealestate.com/" target="_blank" rel="noopener noreferrer"><strong>New Jersey (Northern)</strong></a></li>
+<li><a href="https://dicksteinrealestate.com/" target="_blank" rel="noopener noreferrer"><strong>New Jersey (Central)</strong></a></li>
+<li><strong><a href="https://www.mariamclellan.com/" target="_blank" rel="noopener noreferrer">New Orleans, Louisiana</a></strong></li>
+<li><a href="https://whartonproperties.net" target="_blank" rel="noopener noreferrer"><strong>New York City, New York (Downtown)</strong></a></li>
+</ul>
+</div>
+<div class="divTableCell">
+<h3><strong>North America</strong></h3>
+<ul>
+<li><a href="https://www.rentnyoffice.com/" target="_blank" rel="noopener noreferrer"><strong>New York</strong><strong> City, New York (Midtown)</strong></a></li>
+<li><strong><a href="https://exclusivetenantrep.com/" target="_blank" rel="noopener noreferrer">Norfolk, Virginia</a></strong></li>
+<li><a href="https://madisonstreetpartners.net/" target="_blank" rel="noopener noreferrer"><strong>Orange County, California</strong></a></li>
+<li><a href="https://www.yorkpropertycompany.com" target="_blank" rel="noopener noreferrer"><strong>Orlando, Florida</strong></a></li>
+<li><a href="https://jasperrealtyadvisors.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Beach, Florida</strong></a></li>
+<li><a href="https://www.dtspade.com" target="_blank" rel="noopener noreferrer"><strong>Philadelphia, Pennsylvania</strong></a></li>
+<li><strong>Phoenix, Arizona</strong></li>
+<li><a href="https://omnirealtygroup.com/" target="_blank" rel="noopener noreferrer"><strong>Pittsburgh, Pennsylvania</strong></a></li>
+<li><a href="http://mikenye.capacitycommercial.com/" target="_blank" rel="noopener noreferrer"><strong>Portland, Oregon</strong></a></li>
+<li><a href="https://www.navigantrealestate.com" target="_blank" rel="noopener noreferrer"><strong>Raleigh, North Carolina</strong></a></li>
+<li><strong>Reno-Sparks, Nevada</strong></li>
+<li><a href="https://exclusivetenantrep.com/" target="_blank" rel="noopener noreferrer"><strong>Richmond, Virginia</strong></a></li>
+<li><a href="https://www.maclw.com/" target="_blank" rel="noopener noreferrer"><strong>Round Rock, Texas</strong></a></li>
+<li><a href="https://www.logicalmove.com/" target="_blank" rel="noopener noreferrer"><strong>Salt Lake City, Utah</strong></a></li>
+<li><strong>San Antonio, Texas</strong></li>
+<li><a href="https://www.tenantrepsandiego.com" target="_blank" rel="noopener noreferrer"><strong>San Diego, California</strong></a></li>
+<li><a href="https://www.heidihoch.com/" target="_blank" rel="noopener noreferrer"><strong>San</strong><strong> Francisco</strong><strong>, California</strong></a></li>
+<li><a href="https://www.montlakepartners.com" target="_blank" rel="noopener noreferrer"><strong>Seattle, Washington</strong></a></li>
+<li><a href="https://www.ronincre.net/" target="_blank" rel="noopener noreferrer"><strong>Silicon Valley-San Jose, California</strong></a></li>
+<li><a href="https://mariamclellan.com" target="_blank" rel="noopener noreferrer"><strong>Shreveport, Louisiana</strong></a></li>
+<li><a href="https://howardcommercial.net/" target="_blank" rel="noopener noreferrer"><strong>St. Louis, Missouri</strong></a></li>
+<li><strong>St. Paul, Minnesota</strong></li>
+<li><a href="https://www.mobiliticre.com" target="_blank" rel="noopener noreferrer"><strong>Tampa Bay Area, Florida</strong></a></li>
+<li><a href="https://www.thetenantagent.com" target="_blank" rel="noopener noreferrer"><strong>Toronto, Ontario, Canada</strong></a></li>
+<li><strong>Tucson, Arizona</strong></li>
+<li><a href="https://www.corecommercial.ca" target="_blank" rel="noopener noreferrer"><strong>Vancouver, British Columbia, Canada</strong></a></li>
+<li><strong>Ventura County, California</strong></li>
+<li><a href="https://www.larsencommercial.com/" target="_blank" rel="noopener noreferrer"><strong>Virginia (Northern)</strong></a></li>
+<li><a href="https://exclusivetenantrep.com/" target="_blank" rel="noopener noreferrer"><strong>Virginia Beach, Virginia</strong></a></li>
+<li><a href="https://www.larsencommercial.com/" target="_blank" rel="noopener noreferrer"><strong>Washington, D.C.</strong></a></li>
+<li><a href="https://ambar-realty.com/" target="_blank" rel="noopener noreferrer"><strong>Westchester</strong><strong> County, New York</strong></a></li>
+</ul>
+<em><sub>List updated by <a href="https://personalseo.com" target="_blank" rel="noopener">Personal SEO</a></sub></em></div>
+</div>
+</div>
+</div>
